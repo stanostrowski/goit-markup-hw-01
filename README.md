@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Przedstawienie zespołu programistów oraz co ich motywuje.
+https://stanostrowski.github.io/goit-markup-hw-01/
